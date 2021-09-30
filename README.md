@@ -7,4 +7,3 @@ A teen who loves to code for fun
 ## 🛠 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Eklavyadev&show_icons=true&theme=dark&count_private=true" alt="EklavyaDev" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eklavyadev&theme=dark" alt="Eklavyadev" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklavyadev&theme=dark&layout=compact&hide=html,javascript,CSS,PowerShell&langs_count=6" alt="Eklavyadev" />
