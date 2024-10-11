@@ -1,4 +1,4 @@
-# Hi, I'm Eklavya! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=30&pause=1000&color=F73175&center=true&width=435&lines=Hi%2C+I'm+Eklavya!)](https://git.io/typing-svg) 👋
 
   
 ## 🚀 About Me
