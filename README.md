@@ -2,7 +2,7 @@
 
   
 ## 🚀 About Me
-Undergrad who loves to code for fun <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="35" height="35"/>
+Undergrad who loves to code for fun <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="50" height="50"/>
 
 ## 🛠 Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Eklavyadev&show_icons=true&theme=dark&count_private=true" alt="EklavyaDev" /> -->
