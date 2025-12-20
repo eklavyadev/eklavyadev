@@ -2,10 +2,12 @@
 
   
 ## 🚀 About Me
-Undergrad who loves to code for fun <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="50" height="50"/>
+Undergrad who loves to code for fun
+![@eklavya's parrot](https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif)
+
 
 ## 🛠 Stats
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Eklavyadev&show_icons=true&theme=dark&count_private=true" alt="EklavyaDev" /> -->
+![@eklavya's parrot](https://github-readme-stats.vercel.app/api?username=Eklavyadev&show_icons=true&theme=dark&count_private=true)
 ![](https://komarev.com/ghpvc/?username=eklavyadev&color=green&label=PROFILE+VIEWS)
 
 [![@eklavya's Holopin board](https://holopin.me/eklavya)](https://holopin.io/@eklavya)
