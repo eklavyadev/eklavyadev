@@ -5,7 +5,7 @@
 * 🚀 Undergrad who loves to code for fun <img src="https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width="30">
 * 💻 Full Stack Web & App Developer
 * 🎓 Computer Science Student @ **IIIT Guwahati**
-* 🏆 2× Hackathon Winner
+* 🏆 3× Hackathon Winner
 
 
 <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="100">
